@@ -1,5 +1,3 @@
 <a href="https://github.com/Brenedict">
-    <picture>
-        <img style="width: 100%;" alt="Profile Details" src="./profile.svg">
-    </picture>
+    <img alt="Profile Details" style="width: 100%;" src="./profile.svg">
 </a>
